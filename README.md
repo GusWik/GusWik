@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GusWik
 - 👀 I’m A website Fullstack Programmer
-- 🌱 php,css,Js,html, Laravel, Codeigniter, NodeJs
+- 🌱 php,css,Js,html, Laravel, ReactJS, NodeJs and Mysql
 - 💞️ I’m looking to collaborate on New Programmer
 - 📫 widiantara137@gmail.com
 
